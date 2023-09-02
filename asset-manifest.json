@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/maaltola.fi/static/css/main.2870193b.css",
-    "main.js": "/maaltola.fi/static/js/main.b9102c99.js",
-    "static/media/maaltola.png": "/maaltola.fi/static/media/maaltola.84a03ef353df2f696683.png",
-    "index.html": "/maaltola.fi/index.html",
-    "main.2870193b.css.map": "/maaltola.fi/static/css/main.2870193b.css.map",
-    "main.b9102c99.js.map": "/maaltola.fi/static/js/main.b9102c99.js.map"
+    "main.css": "/maaltolafi/static/css/main.2870193b.css",
+    "main.js": "/maaltolafi/static/js/main.a7c807e6.js",
+    "static/media/maaltola.png": "/maaltolafi/static/media/maaltola.84a03ef353df2f696683.png",
+    "index.html": "/maaltolafi/index.html",
+    "main.2870193b.css.map": "/maaltolafi/static/css/main.2870193b.css.map",
+    "main.a7c807e6.js.map": "/maaltolafi/static/js/main.a7c807e6.js.map"
   },
   "entrypoints": [
     "static/css/main.2870193b.css",
-    "static/js/main.b9102c99.js"
+    "static/js/main.a7c807e6.js"
   ]
 }
