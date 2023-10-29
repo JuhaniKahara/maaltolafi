@@ -10,9 +10,11 @@ function NameGenerator() {
   const validateName = () => {
     if (name.includes('<') || name.includes('>')) {
       alert(`Bro yrittää XSS injektiota? Sivusto on suojattu parhaalla CIA:n teknologialla, joten yrityksesi ovat turhia!`)
+      return
     }
     else if (Math.random() < 0.2) {
       alert(`${name} ei ole mikään oikea nimi. Ole hyvä, ja anna oikea nimesi!`)
+      return
     }
     else if (name.split(' ').length !== 2) {
       alert(`Anna etu- ja sukunimesi välilyönnillä erotettuna, ole hyvä!`)
